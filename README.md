@@ -1,6 +1,6 @@
 ### 🚀About Me 
 - I`m Muhammed Atef.
-- I am learning the C++ language And Java.
+- I`m learning the C++ language And Java.
 - I aspire to be a full stack developer and create simple projects using C++.
 - I wish you a happy time in my profile 😘.
 ## Feedback
