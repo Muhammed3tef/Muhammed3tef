@@ -17,7 +17,7 @@ If you have any feedback, please reach out to us at atef21143@gmail.com
 [![whatsapp](https://img.shields.io/badge/MohamedAtef-1DA1F2?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/)
 
 ## 🛠 Skills
-Html,Css,C++,Java,Git,Githup,oop,Data Structure,Algorithms,Team Work,Problem Solving
+Html,Css,Bootstrap, Java Script,C++,Java,Git,Githup,oop,Data Structure,Algorithms,Team Work,Problem Solving
 <!--
 **Muhammed3tef/Muhammed3tef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
