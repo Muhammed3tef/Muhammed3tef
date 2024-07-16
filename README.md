@@ -8,7 +8,7 @@
 
 If you have any feedback, please reach out to us at atef21143@gmail.com
 ## 🔗 Contact me on these sites
-[![linkedin](https://img.shields.io/badge/MohamedAtef-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([lindedin](https://www.linkedin.com/))
+[![linkedin]([https://img.shields.io/badge/MohamedAtef-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/mohamdatef/))]([lindedin](https://www.linkedin.com/))
 
 [![twitter](https://img.shields.io/badge/MohamedAtef-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
